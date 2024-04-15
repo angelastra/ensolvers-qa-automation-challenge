@@ -1,0 +1,8 @@
+<suite name="QA Challenge Ensolvers">
+  <test name="Regression Test">
+    <classes>
+      <class name="qachallenge.tests.LoginTest"/>
+      <class name="qachallenge.tests.DemoTest"/>
+   </classes>
+  </test>
+</suite>
